@@ -1,0 +1,23 @@
+body{
+    background: rgb(156,155,159);
+    background: linear-gradient(90deg, rgba(156,155,159,1) 0%, rgba(162,162,168,1) 24%, rgba(168,165,165,1) 47%, rgba(91,93,94,1) 80%, rgba(92,107,110,1) 100%);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+  }
+  .imgs {
+    width: 40vw;
+    height: 40vh;
+
+  }
+
+  #btn{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    width: 8vw;
+    height: 6vh;
+    background-color: rgb(61, 61, 61);
+    color:#fdfdfd;
+    margin-bottom: 5vh;
+  }
